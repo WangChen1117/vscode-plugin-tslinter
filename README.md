@@ -1,4 +1,9 @@
 # vscode-tslinter
+
+## Author:
++ Yun Wu (yunwu)
++ Wang Chen (wangchen1117)
+
 This is a vscode extension that provide some shortcuts to run and fix tslint. There is an official one published by Microsoft, but we just create one for fun and learning.
 
 This extension currently supports two functionalities: Run TSLint and Fix TSLint for an opened document.
